@@ -1,0 +1,1377 @@
+{
+    "collection0": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:27:13",
+                "wifi": {
+                    "0c:80:63:e7:22:cd": {
+                        "ssid": "habarnam",
+                        "frequency": "2417",
+                        "rssi": "-68"
+                    },
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-53"
+                    },
+                    "0c:80:63:e7:22:cc": {
+                        "ssid": "habarnama",
+                        "frequency": "5180",
+                        "rssi": "-86"
+                    },
+                    "b0:4e:26:58:fc:ce": {
+                        "ssid": "TP-LINK",
+                        "frequency": "2412",
+                        "rssi": "-84"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-54"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-31"
+                    },
+                    "80:2a:a8:97:87:0c": {
+                        "ssid": "wirelessss",
+                        "frequency": "2462",
+                        "rssi": "-80"
+                    },
+                    "d8:47:32:f6:04:60": {
+                        "ssid": "TP-Link_045E_5G",
+                        "frequency": "5200",
+                        "rssi": "-73"
+                    },
+                    "d8:47:32:f6:04:5e": {
+                        "ssid": "TP-Link_045E",
+                        "frequency": "2447",
+                        "rssi": "-62"
+                    },
+                    "1e:80:63:e7:22:cc": {
+                        "ssid": "",
+                        "frequency": "5180",
+                        "rssi": "-88"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-81",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection1": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:27:18",
+                "wifi": {
+                    "0c:80:63:e7:22:cd": {
+                        "ssid": "habarnam",
+                        "frequency": "2417",
+                        "rssi": "-66"
+                    },
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-52"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-53"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-34"
+                    },
+                    "d8:47:32:f6:04:5e": {
+                        "ssid": "TP-Link_045E",
+                        "frequency": "2447",
+                        "rssi": "-62"
+                    },
+                    "1e:80:63:e7:22:cd": {
+                        "ssid": "",
+                        "frequency": "2417",
+                        "rssi": "-68"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-75",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection2": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:27:27",
+                "wifi": {
+                    "0c:80:63:e7:22:cd": {
+                        "ssid": "habarnam",
+                        "frequency": "2417",
+                        "rssi": "-77"
+                    },
+                    "0c:80:63:e7:22:cc": {
+                        "ssid": "habarnama",
+                        "frequency": "5180",
+                        "rssi": "-88"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-58"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-36"
+                    },
+                    "d8:47:32:f6:04:60": {
+                        "ssid": "TP-Link_045E_5G",
+                        "frequency": "5200",
+                        "rssi": "-77"
+                    },
+                    "1e:80:63:e7:22:cc": {
+                        "ssid": "",
+                        "frequency": "5180",
+                        "rssi": "-88"
+                    }
+                },
+                "ble": {
+                    "55:C3:86:50:9F:A6": [
+                        {
+                            "rssi": "-95"
+                        }
+                    ]
+                },
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-75",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-75",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-75",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection3": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:27:33",
+                "wifi": {
+                    "0c:80:63:e7:22:cd": {
+                        "ssid": "habarnam",
+                        "frequency": "2417",
+                        "rssi": "-74"
+                    },
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-50"
+                    },
+                    "0c:80:63:e7:22:cc": {
+                        "ssid": "habarnama",
+                        "frequency": "5180",
+                        "rssi": "-87"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-50"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-39"
+                    },
+                    "70:4f:57:3d:5c:2d": {
+                        "ssid": "Telekom-SSSr1g2.4",
+                        "frequency": "2472",
+                        "rssi": "-88"
+                    },
+                    "d8:47:32:f6:04:60": {
+                        "ssid": "TP-Link_045E_5G",
+                        "frequency": "5200",
+                        "rssi": "-79"
+                    },
+                    "d8:47:32:f6:04:5e": {
+                        "ssid": "TP-Link_045E",
+                        "frequency": "2447",
+                        "rssi": "-73"
+                    },
+                    "1e:80:63:e7:22:cc": {
+                        "ssid": "",
+                        "frequency": "5180",
+                        "rssi": "-87"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-81",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-81",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection4": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:27:38",
+                "wifi": {
+                    "0c:80:63:e7:22:cd": {
+                        "ssid": "habarnam",
+                        "frequency": "2417",
+                        "rssi": "-74"
+                    },
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-46"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-46"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-38"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-81",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-81",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection5": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:27:43",
+                "wifi": {
+                    "0c:80:63:e7:22:cd": {
+                        "ssid": "habarnam",
+                        "frequency": "2417",
+                        "rssi": "-75"
+                    },
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-37"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-48"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-37"
+                    },
+                    "f4:f2:6d:d7:e7:fe": {
+                        "ssid": "TP-LINK_E7FE",
+                        "frequency": "2422",
+                        "rssi": "-89"
+                    },
+                    "d8:47:32:f6:04:5e": {
+                        "ssid": "TP-Link_045E",
+                        "frequency": "2447",
+                        "rssi": "-72"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-81",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection6": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:27:59",
+                "wifi": {
+                    "0c:80:63:e7:22:cd": {
+                        "ssid": "habarnam",
+                        "frequency": "2417",
+                        "rssi": "-81"
+                    },
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-41"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-46"
+                    },
+                    "38:43:7d:c1:0a:9f": {
+                        "ssid": "Zork",
+                        "frequency": "2412",
+                        "rssi": "-84"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-64"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-40"
+                    },
+                    "22:69:68:48:12:70": {
+                        "ssid": "habar-dmz",
+                        "frequency": "5240",
+                        "rssi": "-46"
+                    },
+                    "f4:f2:6d:d7:e7:fe": {
+                        "ssid": "TP-LINK_E7FE",
+                        "frequency": "2422",
+                        "rssi": "-88"
+                    },
+                    "d8:47:32:f6:04:5e": {
+                        "ssid": "TP-Link_045E",
+                        "frequency": "2447",
+                        "rssi": "-82"
+                    },
+                    "60:32:b1:ca:0a:98": {
+                        "ssid": "Orange-vsq6_2.4GEXT",
+                        "frequency": "2432",
+                        "rssi": "-84"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-77",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-79",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection7": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:28:10",
+                "wifi": {
+                    "b4:43:26:31:e2:24": {
+                        "ssid": "Orange-vsq6",
+                        "frequency": "2432",
+                        "rssi": "-74"
+                    },
+                    "38:43:7d:c1:0a:9f": {
+                        "ssid": "Zork",
+                        "frequency": "2412",
+                        "rssi": "-82"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-55"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-40"
+                    },
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-40"
+                    },
+                    "22:69:68:48:12:70": {
+                        "ssid": "habar-dmz",
+                        "frequency": "5240",
+                        "rssi": "-44"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-43"
+                    },
+                    "3a:43:1d:c1:0a:9f": {
+                        "ssid": "UPC Wi-Free",
+                        "frequency": "2412",
+                        "rssi": "-81"
+                    },
+                    "60:32:b1:ca:0a:98": {
+                        "ssid": "Orange-vsq6_2.4GEXT",
+                        "frequency": "2432",
+                        "rssi": "-83"
+                    },
+                    "d8:47:32:f6:04:5e": {
+                        "ssid": "TP-Link_045E",
+                        "frequency": "2447",
+                        "rssi": "-80"
+                    },
+                    "f4:f2:6d:d7:e7:fe": {
+                        "ssid": "TP-LINK_E7FE",
+                        "frequency": "2422",
+                        "rssi": "-88"
+                    },
+                    "0c:80:63:e7:22:cd": {
+                        "ssid": "habarnam",
+                        "frequency": "2417",
+                        "rssi": "-77"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-79",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection8": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:28:15",
+                "wifi": {
+                    "b4:43:26:31:e2:24": {
+                        "ssid": "Orange-vsq6",
+                        "frequency": "2432",
+                        "rssi": "-73"
+                    },
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-40"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-44"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-59"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-41"
+                    },
+                    "22:69:68:48:12:70": {
+                        "ssid": "habar-dmz",
+                        "frequency": "5240",
+                        "rssi": "-44"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection9": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:28:21",
+                "wifi": {
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-39"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-40"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-53"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-38"
+                    },
+                    "22:69:68:48:12:70": {
+                        "ssid": "habar-dmz",
+                        "frequency": "5240",
+                        "rssi": "-40"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-77",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection10": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:28:26",
+                "wifi": {
+                    "b4:43:26:31:e2:24": {
+                        "ssid": "Orange-vsq6",
+                        "frequency": "2432",
+                        "rssi": "-75"
+                    },
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-37"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-34"
+                    },
+                    "38:43:7d:c1:0a:9f": {
+                        "ssid": "Zork",
+                        "frequency": "2412",
+                        "rssi": "-79"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-60"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-36"
+                    },
+                    "22:69:68:48:12:70": {
+                        "ssid": "habar-dmz",
+                        "frequency": "5240",
+                        "rssi": "-35"
+                    },
+                    "3a:43:1d:c1:0a:9f": {
+                        "ssid": "UPC Wi-Free",
+                        "frequency": "2412",
+                        "rssi": "-77"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-77",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-77",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection11": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:28:32",
+                "wifi": {
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-45"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-39"
+                    },
+                    "38:43:7d:c1:0a:9f": {
+                        "ssid": "Zork",
+                        "frequency": "2412",
+                        "rssi": "-79"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-63"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-45"
+                    },
+                    "22:69:68:48:12:70": {
+                        "ssid": "habar-dmz",
+                        "frequency": "5240",
+                        "rssi": "-38"
+                    },
+                    "f4:f2:6d:d7:e7:fe": {
+                        "ssid": "TP-LINK_E7FE",
+                        "frequency": "2422",
+                        "rssi": "-85"
+                    },
+                    "3a:43:1d:c1:0a:9f": {
+                        "ssid": "UPC Wi-Free",
+                        "frequency": "2412",
+                        "rssi": "-79"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "26167861",
+                        "rssi": "-77",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection12": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:28:37",
+                "wifi": {
+                    "0c:80:63:e7:22:cd": {
+                        "ssid": "habarnam",
+                        "frequency": "2417",
+                        "rssi": "-85"
+                    },
+                    "b4:43:26:31:e2:24": {
+                        "ssid": "Orange-vsq6",
+                        "frequency": "2432",
+                        "rssi": "-76"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-36"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-66"
+                    },
+                    "22:69:68:48:12:70": {
+                        "ssid": "habar-dmz",
+                        "frequency": "5240",
+                        "rssi": "-36"
+                    },
+                    "74:e5:43:d6:10:cc": {
+                        "ssid": "huzur",
+                        "frequency": "2412",
+                        "rssi": "-78"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection13": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:28:43",
+                "wifi": {
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-38"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-67"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-38"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection14": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:28:55",
+                "wifi": {
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-46"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-54"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-63"
+                    },
+                    "22:69:68:48:12:70": {
+                        "ssid": "habar-dmz",
+                        "frequency": "5240",
+                        "rssi": "-53"
+                    },
+                    "f4:f2:6d:d7:e7:fe": {
+                        "ssid": "TP-LINK_E7FE",
+                        "frequency": "2422",
+                        "rssi": "-86"
+                    },
+                    "74:e5:43:d6:10:cc": {
+                        "ssid": "",
+                        "frequency": "2412",
+                        "rssi": "-68"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-75",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-75",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection15": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:29:01",
+                "wifi": {
+                    "0c:80:63:e7:22:cd": {
+                        "ssid": "habarnam",
+                        "frequency": "2417",
+                        "rssi": "-80"
+                    },
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-48"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-60"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-66"
+                    },
+                    "22:69:68:48:12:70": {
+                        "ssid": "habar-dmz",
+                        "frequency": "5240",
+                        "rssi": "-60"
+                    },
+                    "d8:47:32:f6:04:5e": {
+                        "ssid": "TP-Link_045E",
+                        "frequency": "2447",
+                        "rssi": "-85"
+                    },
+                    "74:e5:43:d6:10:cc": {
+                        "ssid": "huzur",
+                        "frequency": "2412",
+                        "rssi": "-74"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection16": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:29:06",
+                "wifi": {
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-50"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-50"
+                    },
+                    "28:a6:db:e4:b4:5c": {
+                        "ssid": "habarnam",
+                        "frequency": "2442",
+                        "rssi": "-69"
+                    },
+                    "22:69:68:48:12:70": {
+                        "ssid": "habar-dmz",
+                        "frequency": "5240",
+                        "rssi": "-50"
+                    },
+                    "d8:47:32:f6:04:5e": {
+                        "ssid": "TP-Link_045E",
+                        "frequency": "2447",
+                        "rssi": "-83"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection17": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:29:17",
+                "wifi": {
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-61"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-62"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-60"
+                    },
+                    "22:69:68:48:12:70": {
+                        "ssid": "habar-dmz",
+                        "frequency": "5240",
+                        "rssi": "-62"
+                    },
+                    "74:e5:43:d6:10:cc": {
+                        "ssid": "huzur",
+                        "frequency": "2412",
+                        "rssi": "-65"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection18": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:29:23",
+                "wifi": {
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-65"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection19": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:29:28",
+                "wifi": {
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-68"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-74"
+                    },
+                    "22:69:68:48:12:70": {
+                        "ssid": "habar-dmz",
+                        "frequency": "5240",
+                        "rssi": "-74"
+                    },
+                    "74:e5:43:d6:10:cc": {
+                        "ssid": "huzur",
+                        "frequency": "2412",
+                        "rssi": "-57"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    "collection20": {
+        "devId": "62a658f7-0ce0-4339-acdf-33d39c45e190",
+        "devName": "Redmi Note 8",
+        "comment": "mumu-10m",
+        "map": "precis_subsol.png",
+        "x": 978.329833984375,
+        "y": 712.5835571289062,
+        "fingerprints": [
+            {
+                "timestamp": "27-01-2021 19:29:39",
+                "wifi": {
+                    "24:69:68:48:12:71": {
+                        "ssid": "habarnam",
+                        "frequency": "2462",
+                        "rssi": "-66"
+                    },
+                    "24:69:68:48:12:70": {
+                        "ssid": "habarnama",
+                        "frequency": "5240",
+                        "rssi": "-71"
+                    },
+                    "22:69:68:48:12:71": {
+                        "ssid": "habar-dmz",
+                        "frequency": "2462",
+                        "rssi": "-65"
+                    },
+                    "22:69:68:48:12:70": {
+                        "ssid": "habar-dmz",
+                        "frequency": "5240",
+                        "rssi": "-71"
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": [
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-73",
+                        "mcc": "226",
+                        "mnc": "5"
+                    },
+                    {
+                        "type": "5",
+                        "cid": "25873204",
+                        "rssi": "-75",
+                        "mcc": "226",
+                        "mnc": "5"
+                    }
+                ]
+            }
+        ]
+    }
+}

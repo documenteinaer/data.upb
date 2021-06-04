@@ -1,0 +1,5874 @@
+{
+    "collection0": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 54.021,
+        "y": 28.33,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP5": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP514": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection1": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 57.547,
+        "y": 32.148,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection2": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 131.63,
+        "y": 71.487,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP481": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP483": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP484": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -81
+                        ]
+                    },
+                    "AP905": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -80
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -81
+                        ]
+                    },
+                    "AP907": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection3": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 127.36,
+        "y": 69.904,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP372": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection4": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 117.23,
+        "y": 36.686,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP429": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP430": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP431": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP432": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection5": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 116.62,
+        "y": 34.218,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -56
+                        ]
+                    },
+                    "AP928": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -95
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection6": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 126.95,
+        "y": 70.458,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP481": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP482": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP483": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP484": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP905": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP907": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP979": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection7": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 118.91,
+        "y": 37.046,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP425": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection8": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 59.403,
+        "y": 27.669,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection9": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 56.522,
+        "y": 31.44,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection10": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 116.93,
+        "y": 33.818,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -48
+                        ]
+                    },
+                    "AP930": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP931": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection11": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 132.19,
+        "y": 72.256,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP481": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -78
+                        ]
+                    },
+                    "AP482": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -78
+                        ]
+                    },
+                    "AP483": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP484": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -96
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -63
+                        ]
+                    },
+                    "AP905": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -61
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -80
+                        ]
+                    },
+                    "AP907": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -67
+                        ]
+                    },
+                    "AP979": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection12": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 118.93,
+        "y": 37.555,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP430": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP432": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -64
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection13": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 118.1,
+        "y": 34.07,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP491": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -45
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection14": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 116.93,
+        "y": 36.718,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP429": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP430": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP431": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP432": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection15": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 56.178,
+        "y": 28.672,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection16": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 118.72,
+        "y": 37.377,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -74
+                        ]
+                    },
+                    "AP425": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -77
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -78
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -57
+                        ]
+                    },
+                    "AP805": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP830": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -77
+                        ]
+                    },
+                    "AP831": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -78
+                        ]
+                    },
+                    "AP832": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -76
+                        ]
+                    },
+                    "AP833": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -77
+                        ]
+                    },
+                    "AP928": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP929": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection17": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.217,
+        "y": 29.285,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    },
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection18": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 114.79,
+        "y": 34.354,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -79
+                        ]
+                    },
+                    "AP431": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection19": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 117.77,
+        "y": 33.497,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP5": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP425": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP556": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection20": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 117.2,
+        "y": 36.907,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -74
+                        ]
+                    },
+                    "AP157": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -35
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection21": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 116.27,
+        "y": 34.276,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP492": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -95
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -52
+                        ]
+                    },
+                    "AP556": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -96
+                        ]
+                    },
+                    "AP928": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection22": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.062,
+        "y": 31.467,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP622": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection23": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.193,
+        "y": 29.711,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection24": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 131.74,
+        "y": 72.922,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -99
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection25": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.123,
+        "y": 35.057,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -46
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection26": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 128.03,
+        "y": 69.847,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -80
+                        ]
+                    },
+                    "AP905": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -78
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP907": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -81
+                        ]
+                    },
+                    "AP908": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP911": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection27": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 115.9,
+        "y": 38.372,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection28": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.225,
+        "y": 32.128,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP622": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection29": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 116.82,
+        "y": 34.689,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP491": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -47
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection30": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 126.6,
+        "y": 69.612,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP560": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP773": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP905": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP907": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection31": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 56.259,
+        "y": 32.055,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -63
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection32": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 57.242,
+        "y": 29.556,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP179": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP745": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection33": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 117.97,
+        "y": 38.0,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -79
+                        ]
+                    },
+                    "AP425": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection34": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 116.42,
+        "y": 35.542,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP102": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -97
+                        ]
+                    },
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP521": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -95
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection35": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 132.44,
+        "y": 71.644,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP481": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP483": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP484": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP905": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP907": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection36": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 117.08,
+        "y": 33.306,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -81
+                        ]
+                    },
+                    "AP490": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -59
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection37": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 54.177,
+        "y": 28.952,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP514": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP554": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection38": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 55.73,
+        "y": 28.031,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection39": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 57.167,
+        "y": 28.986,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection40": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 57.906,
+        "y": 31.748,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection41": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 55.953,
+        "y": 28.167,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP370": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -97
+                        ]
+                    },
+                    "AP745": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -97
+                        ]
+                    },
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection42": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 127.88,
+        "y": 69.931,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP905": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP907": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection43": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 116.65,
+        "y": 37.209,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -76
+                        ]
+                    },
+                    "AP425": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -75
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -77
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -77
+                        ]
+                    },
+                    "AP429": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -65
+                        ]
+                    },
+                    "AP430": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP431": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -66
+                        ]
+                    },
+                    "AP432": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP441": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP442": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP489": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -78
+                        ]
+                    },
+                    "AP490": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP492": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -80
+                        ]
+                    },
+                    "AP803": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -80
+                        ]
+                    },
+                    "AP804": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP805": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP806": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -81
+                        ]
+                    },
+                    "AP807": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP809": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP810": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP830": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP831": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP832": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP833": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP928": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -77
+                        ]
+                    },
+                    "AP929": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -76
+                        ]
+                    },
+                    "AP931": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -73
+                        ]
+                    },
+                    "AP932": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP934": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP935": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection44": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 114.3,
+        "y": 32.741,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -80
+                        ]
+                    },
+                    "AP425": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP431": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP928": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection45": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 117.0,
+        "y": 34.753,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -76
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP521": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -95
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection46": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 117.44,
+        "y": 36.739,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -81
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP430": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP432": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -69
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection47": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.628,
+        "y": 29.29,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection48": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 132.55,
+        "y": 71.17,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP909": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP911": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection49": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 128.28,
+        "y": 69.383,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP560": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP905": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP907": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection50": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 118.05,
+        "y": 34.103,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP425": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -48
+                        ]
+                    },
+                    "AP930": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP931": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection51": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 56.482,
+        "y": 34.148,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection52": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 117.82,
+        "y": 37.141,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP429": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP430": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP431": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP432": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -56
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection53": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 57.352,
+        "y": 34.859,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -95
+                        ]
+                    },
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection54": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 57.944,
+        "y": 34.529,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection55": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 55.284,
+        "y": 28.16,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP5": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP514": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection56": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 55.587,
+        "y": 31.737,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -48
+                        ]
+                    },
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection57": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.043,
+        "y": 29.43,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection58": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 57.869,
+        "y": 34.973,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection59": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.49,
+        "y": 30.109,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection60": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 56.449,
+        "y": 29.285,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection61": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 118.4,
+        "y": 39.926,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection62": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 55.52,
+        "y": -2.1252,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection63": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 131.83,
+        "y": 70.561,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP372": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP560": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP627": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP905": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -79
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP907": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP908": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection64": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 57.92,
+        "y": 29.196,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    },
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection65": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 57.199,
+        "y": 34.557,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection66": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 55.53,
+        "y": 29.572,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP745": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection67": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 130.33,
+        "y": 70.22,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP372": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -96
+                        ]
+                    },
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -98
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection68": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 114.6,
+        "y": 34.58,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -44
+                        ]
+                    },
+                    "AP556": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP929": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection69": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.236,
+        "y": 34.933,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection70": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 116.51,
+        "y": 33.294,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP429": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP430": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP804": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP805": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP806": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP928": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP929": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection71": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 129.71,
+        "y": 70.309,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP560": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP908": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP910": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection72": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 131.53,
+        "y": 72.725,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -78
+                        ]
+                    },
+                    "AP907": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -80
+                        ]
+                    },
+                    "AP908": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP910": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection73": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 117.97,
+        "y": 33.866,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -79
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP430": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP432": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -44
+                        ]
+                    },
+                    "AP929": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP930": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP931": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection74": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 130.2,
+        "y": 70.909,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -99
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection75": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 114.55,
+        "y": 34.444,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP492": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -58
+                        ]
+                    },
+                    "AP772": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP929": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -95
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection76": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.286,
+        "y": 31.802,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection77": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 126.78,
+        "y": 69.348,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP905": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP907": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection78": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 57.202,
+        "y": 28.809,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection79": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 57.653,
+        "y": 34.484,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection80": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 116.84,
+        "y": 37.108,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -77
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection81": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 132.71,
+        "y": 71.556,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -96
+                        ]
+                    },
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -98
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection82": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 118.17,
+        "y": 34.646,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP489": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP490": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -49
+                        ]
+                    },
+                    "AP929": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection83": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 56.9,
+        "y": 28.851,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -95
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection84": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 56.71,
+        "y": 28.247,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection85": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.091,
+        "y": 35.029,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection86": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 117.32,
+        "y": 32.953,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP157": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -45
+                        ]
+                    },
+                    "AP224": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP226": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP227": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP231": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -78
+                        ]
+                    },
+                    "AP232": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -74
+                        ]
+                    },
+                    "AP233": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -76
+                        ]
+                    },
+                    "AP234": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -74
+                        ]
+                    },
+                    "AP239": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -77
+                        ]
+                    },
+                    "AP240": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -77
+                        ]
+                    },
+                    "AP241": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -77
+                        ]
+                    },
+                    "AP242": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -76
+                        ]
+                    },
+                    "AP246": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP276": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP277": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP278": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP279": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP280": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP283": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP292": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP293": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP294": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP295": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP339": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -64
+                        ]
+                    },
+                    "AP340": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -66
+                        ]
+                    },
+                    "AP341": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -64
+                        ]
+                    },
+                    "AP342": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -64
+                        ]
+                    },
+                    "AP343": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -73
+                        ]
+                    },
+                    "AP344": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -73
+                        ]
+                    },
+                    "AP345": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -74
+                        ]
+                    },
+                    "AP346": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -73
+                        ]
+                    },
+                    "AP417": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -73
+                        ]
+                    },
+                    "AP418": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -74
+                        ]
+                    },
+                    "AP419": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -68
+                        ]
+                    },
+                    "AP420": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -68
+                        ]
+                    },
+                    "AP421": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -66
+                        ]
+                    },
+                    "AP422": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -67
+                        ]
+                    },
+                    "AP423": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -66
+                        ]
+                    },
+                    "AP424": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -67
+                        ]
+                    },
+                    "AP489": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP490": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP491": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -76
+                        ]
+                    },
+                    "AP492": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -72
+                        ]
+                    },
+                    "AP493": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP496": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -80
+                        ]
+                    },
+                    "AP775": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP776": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP778": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -81
+                        ]
+                    },
+                    "AP780": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP781": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP868": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection87": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.204,
+        "y": 32.072,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -51
+                        ]
+                    },
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection88": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 57.444,
+        "y": 31.806,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -18
+                        ]
+                    },
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection89": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 115.83,
+        "y": 34.402,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -70
+                        ]
+                    },
+                    "AP419": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP425": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -72
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -75
+                        ]
+                    },
+                    "AP521": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP803": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP804": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP805": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP806": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP830": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -65
+                        ]
+                    },
+                    "AP831": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -65
+                        ]
+                    },
+                    "AP832": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -65
+                        ]
+                    },
+                    "AP833": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -65
+                        ]
+                    },
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP898": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP928": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP929": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP930": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP931": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection90": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 115.48,
+        "y": 35.872,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -74
+                        ]
+                    },
+                    "AP425": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -58
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection91": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 114.16,
+        "y": 33.643,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -78
+                        ]
+                    },
+                    "AP490": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -47
+                        ]
+                    },
+                    "AP803": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -97
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection92": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 116.39,
+        "y": 33.334,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP425": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP489": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP491": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP492": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP497": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP530": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP713": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP930": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection93": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 117.24,
+        "y": 39.027,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -80
+                        ]
+                    },
+                    "AP430": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    },
+                    "AP432": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection94": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 119.23,
+        "y": 33.947,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP5": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -79
+                        ]
+                    },
+                    "AP425": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP426": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP556": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection95": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 129.12,
+        "y": 70.842,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    },
+                    "AP905": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -77
+                        ]
+                    },
+                    "AP907": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection96": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 118.14,
+        "y": 34.796,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -50
+                        ]
+                    },
+                    "AP806": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -95
+                        ]
+                    },
+                    "AP928": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP929": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP930": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -95
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection97": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 128.82,
+        "y": 71.444,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP559": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP639": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP904": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP905": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP906": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -82
+                        ]
+                    },
+                    "AP907": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection98": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 117.68,
+        "y": 36.97,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -79
+                        ]
+                    },
+                    "AP429": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP432": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -62
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection99": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 57.0,
+        "y": 28.505,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP5": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP514": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -87
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection100": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 119.23,
+        "y": 34.661,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -85
+                        ]
+                    },
+                    "AP491": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    },
+                    "AP492": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -48
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection101": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.328,
+        "y": 30.853,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -89
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection102": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.491,
+        "y": 30.021,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -91
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection103": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 119.16,
+        "y": 34.314,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP427": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -88
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -55
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection104": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 116.1,
+        "y": 36.414,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -74
+                        ]
+                    },
+                    "AP425": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -83
+                        ]
+                    },
+                    "AP428": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -86
+                        ]
+                    },
+                    "AP430": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    },
+                    "AP431": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -84
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection105": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 55.847,
+        "y": 28.209,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    },
+                    "AP882": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -95
+                        ]
+                    },
+                    "AP883": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -93
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection106": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 119.11,
+        "y": 36.96,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -76
+                        ]
+                    },
+                    "AP432": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -90
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -54
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection107": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 58.415,
+        "y": 34.983,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP880": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP881": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -94
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "collection108": {
+        "devId": "?",
+        "devName": "?",
+        "AndroidVersion": "?",
+        "comment": "tau",
+        "map": "tau",
+        "x": 116.74,
+        "y": 34.22,
+        "z": 14.8,
+        "fingerprints": [
+            {
+                "timestamp": "?",
+                "wifi": {
+                    "AP136": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP536": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -44
+                        ]
+                    },
+                    "AP830": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -92
+                        ]
+                    },
+                    "AP832": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -95
+                        ]
+                    },
+                    "AP931": {
+                        "ssid": "?",
+                        "frequency": "?",
+                        "rssi": [
+                            -97
+                        ]
+                    }
+                },
+                "ble": {},
+                "gps": [],
+                "telephony": []
+            }
+        ]
+    },
+    "proc": {
+        "2021-06-02 23:57:33.069722": "preprocessing.py -i ../data.upb/tut/tut_test_21Aug17.json -o tut_test_21Aug17.json --floor"
+    }
+}

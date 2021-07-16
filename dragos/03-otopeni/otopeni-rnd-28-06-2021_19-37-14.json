@@ -1,0 +1,1871 @@
+{
+    "type": "0",
+    "fingerprints": {
+        "collection0": {
+            "devId": "63f3a6c5-dddf-496b-9b2f-e33f30fa8988",
+            "devName": "Redmi Note 8",
+            "AndroidVersion": "11",
+            "comment": "OTP - delete",
+            "map": "arch_precis_parter.png",
+            "x_p": -1,
+            "y_p": -1,
+            "x": -1,
+            "y": -1,
+            "z": -1,
+            "fingerprints": [
+                {
+                    "timestamp": "28-06-2021 19:36:57",
+                    "wifi": {
+                        "c8:67:5e:75:1c:a4": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -78
+                            ]
+                        },
+                        "c8:67:5e:48:4d:e8": {
+                            "ssid": "Bestvalue",
+                            "frequency": "5240",
+                            "rssi": [
+                                -83
+                            ]
+                        },
+                        "c8:67:5e:48:4d:e7": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -83
+                            ]
+                        },
+                        "c8:67:5e:48:4d:e6": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -83
+                            ]
+                        },
+                        "c8:67:5e:48:4d:e5": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -83
+                            ]
+                        },
+                        "c8:67:5e:48:4d:e4": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -83
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0f": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "5280",
+                            "rssi": [
+                                -71
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0e": {
+                            "ssid": "",
+                            "frequency": "5280",
+                            "rssi": [
+                                -74
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:7f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5200",
+                            "rssi": [
+                                -39
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0d": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5280",
+                            "rssi": [
+                                -70
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:2f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5220",
+                            "rssi": [
+                                -63
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0c": {
+                            "ssid": "",
+                            "frequency": "5280",
+                            "rssi": [
+                                -74
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:7e": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -41
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:7c": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -40
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:2c": {
+                            "ssid": "",
+                            "frequency": "5220",
+                            "rssi": [
+                                -63
+                            ]
+                        },
+                        "a0:cf:5b:cb:4f:f5": {
+                            "ssid": "",
+                            "frequency": "2412",
+                            "rssi": [
+                                -66
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:2a": {
+                            "ssid": "",
+                            "frequency": "5220",
+                            "rssi": [
+                                -62
+                            ]
+                        },
+                        "a0:cf:5b:c3:5a:cc": {
+                            "ssid": "",
+                            "frequency": "5220",
+                            "rssi": [
+                                -74
+                            ]
+                        },
+                        "a0:cf:5b:c3:5a:ca": {
+                            "ssid": "",
+                            "frequency": "5220",
+                            "rssi": [
+                                -74
+                            ]
+                        },
+                        "a0:cf:5b:cb:4f:f0": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2412",
+                            "rssi": [
+                                -66
+                            ]
+                        },
+                        "a0:cf:5b:c3:cc:11": {
+                            "ssid": "",
+                            "frequency": "2412",
+                            "rssi": [
+                                -85
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:03": {
+                            "ssid": "",
+                            "frequency": "2462",
+                            "rssi": [
+                                -60
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:51": {
+                            "ssid": "",
+                            "frequency": "2412",
+                            "rssi": [
+                                -79
+                            ]
+                        },
+                        "34:a8:4e:4f:d8:ef": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "5320",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "00:be:3b:8b:49:c5": {
+                            "ssid": "Orange-3B8B49C5",
+                            "frequency": "2432",
+                            "rssi": [
+                                -55
+                            ]
+                        },
+                        "34:a8:4e:4f:d8:ed": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5320",
+                            "rssi": [
+                                -72
+                            ]
+                        },
+                        "34:a8:4e:4f:d9:5f": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "5180",
+                            "rssi": [
+                                -68
+                            ]
+                        },
+                        "34:a8:4e:4f:d9:5d": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5180",
+                            "rssi": [
+                                -69
+                            ]
+                        },
+                        "34:a8:4e:4f:d9:5c": {
+                            "ssid": "",
+                            "frequency": "5180",
+                            "rssi": [
+                                -68
+                            ]
+                        },
+                        "d4:72:26:5f:b4:bb": {
+                            "ssid": "vodafoneB4BB",
+                            "frequency": "2437",
+                            "rssi": [
+                                -75
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:74": {
+                            "ssid": "",
+                            "frequency": "2437",
+                            "rssi": [
+                                -59
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:24": {
+                            "ssid": "",
+                            "frequency": "2462",
+                            "rssi": [
+                                -59
+                            ]
+                        },
+                        "c8:67:5e:47:50:a8": {
+                            "ssid": "Bestvalue",
+                            "frequency": "5240",
+                            "rssi": [
+                                -86
+                            ]
+                        },
+                        "a0:cf:5b:cb:4f:ff": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5220",
+                            "rssi": [
+                                -63
+                            ]
+                        },
+                        "a0:cf:5b:c3:f0:8f": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "5300",
+                            "rssi": [
+                                -72
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:70": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2437",
+                            "rssi": [
+                                -58
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:20": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2462",
+                            "rssi": [
+                                -62
+                            ]
+                        },
+                        "a0:cf:5b:c3:f0:8d": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5300",
+                            "rssi": [
+                                -72
+                            ]
+                        },
+                        "a0:cf:5b:cb:4f:fb": {
+                            "ssid": "",
+                            "frequency": "5220",
+                            "rssi": [
+                                -64
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:0f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5180",
+                            "rssi": [
+                                -56
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:0b": {
+                            "ssid": "",
+                            "frequency": "5180",
+                            "rssi": [
+                                -54
+                            ]
+                        },
+                        "00:be:3b:8b:47:9a": {
+                            "ssid": "Orange-3B8B479A",
+                            "frequency": "2432",
+                            "rssi": [
+                                -50
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:a8": {
+                            "ssid": "Bestvalue",
+                            "frequency": "5200",
+                            "rssi": [
+                                -66
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:0a": {
+                            "ssid": "",
+                            "frequency": "5180",
+                            "rssi": [
+                                -57
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:a7": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -66
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:a6": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -66
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:a5": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -66
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:a4": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -66
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:96": {
+                            "ssid": "",
+                            "frequency": "2437",
+                            "rssi": [
+                                -64
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:95": {
+                            "ssid": "",
+                            "frequency": "2437",
+                            "rssi": [
+                                -64
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:94": {
+                            "ssid": "Bestvalue",
+                            "frequency": "2437",
+                            "rssi": [
+                                -64
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a8": {
+                            "ssid": "Bestvalue",
+                            "frequency": "5240",
+                            "rssi": [
+                                -78
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a7": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -78
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a6": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -76
+                            ]
+                        },
+                        "0c:80:63:cc:5e:07": {
+                            "ssid": "TP-Link_5E07",
+                            "frequency": "2427",
+                            "rssi": [
+                                -68
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a5": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -77
+                            ]
+                        }
+                    },
+                    "ble": {},
+                    "gps": [],
+                    "telephony": [
+                        {
+                            "type": "5",
+                            "cid": "28350475",
+                            "rssi": "-65",
+                            "mcc": "226",
+                            "mnc": "5"
+                        },
+                        {
+                            "type": "5",
+                            "cid": "28350732",
+                            "rssi": "-65",
+                            "mcc": "226",
+                            "mnc": "5"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": "28-06-2021 19:37:00",
+                    "wifi": {
+                        "0c:80:63:cc:5e:09": {
+                            "ssid": "TP-Link_5E07_5G",
+                            "frequency": "5180",
+                            "rssi": [
+                                -68
+                            ]
+                        },
+                        "34:a8:4e:4f:d9:50": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "2412",
+                            "rssi": [
+                                -66
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a8": {
+                            "ssid": "Bestvalue",
+                            "frequency": "5240",
+                            "rssi": [
+                                -79
+                            ]
+                        },
+                        "0c:80:63:cc:5e:07": {
+                            "ssid": "TP-Link_5E07",
+                            "frequency": "2427",
+                            "rssi": [
+                                -67
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a7": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -80
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a6": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -80
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:2f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5220",
+                            "rssi": [
+                                -63
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a5": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -80
+                            ]
+                        },
+                        "34:a8:4e:4f:d8:ec": {
+                            "ssid": "",
+                            "frequency": "5320",
+                            "rssi": [
+                                -74
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0f": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "5280",
+                            "rssi": [
+                                -71
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0e": {
+                            "ssid": "",
+                            "frequency": "5280",
+                            "rssi": [
+                                -74
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0d": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5280",
+                            "rssi": [
+                                -71
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:a8": {
+                            "ssid": "Bestvalue",
+                            "frequency": "5200",
+                            "rssi": [
+                                -61
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0c": {
+                            "ssid": "",
+                            "frequency": "5280",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "a0:cf:5b:cb:4f:ff": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5220",
+                            "rssi": [
+                                -64
+                            ]
+                        },
+                        "a0:cf:5b:c3:5a:ca": {
+                            "ssid": "",
+                            "frequency": "5220",
+                            "rssi": [
+                                -74
+                            ]
+                        },
+                        "a0:cf:5b:cb:4f:f5": {
+                            "ssid": "",
+                            "frequency": "2412",
+                            "rssi": [
+                                -70
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:7f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5200",
+                            "rssi": [
+                                -39
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:73": {
+                            "ssid": "",
+                            "frequency": "2437",
+                            "rssi": [
+                                -59
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:7b": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -40
+                            ]
+                        },
+                        "a0:cf:5b:c3:f0:8f": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "5300",
+                            "rssi": [
+                                -70
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:7a": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -39
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:71": {
+                            "ssid": "",
+                            "frequency": "2437",
+                            "rssi": [
+                                -58
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:95": {
+                            "ssid": "",
+                            "frequency": "2437",
+                            "rssi": [
+                                -65
+                            ]
+                        },
+                        "a0:cf:5b:c3:f0:8d": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5300",
+                            "rssi": [
+                                -71
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:70": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2437",
+                            "rssi": [
+                                -59
+                            ]
+                        },
+                        "a0:cf:5b:c3:f0:8c": {
+                            "ssid": "",
+                            "frequency": "5300",
+                            "rssi": [
+                                -71
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:0f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5180",
+                            "rssi": [
+                                -57
+                            ]
+                        },
+                        "a0:cf:5b:c3:f0:80": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "2462",
+                            "rssi": [
+                                -75
+                            ]
+                        },
+                        "34:a8:4e:4f:d9:5d": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5180",
+                            "rssi": [
+                                -70
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:05": {
+                            "ssid": "",
+                            "frequency": "2462",
+                            "rssi": [
+                                -64
+                            ]
+                        }
+                    },
+                    "ble": {
+                        "59:42:9C:9E:17:D9": {
+                            "rssi": [
+                                "-90",
+                                "-95"
+                            ]
+                        },
+                        "63:7A:E0:BC:91:11": {
+                            "rssi": [
+                                "-64",
+                                "-65",
+                                "-63"
+                            ]
+                        },
+                        "62:9E:57:E1:38:7B": {
+                            "rssi": [
+                                "-72",
+                                "-71",
+                                "-76"
+                            ]
+                        },
+                        "43:FF:25:CE:BE:16": {
+                            "rssi": [
+                                "-89",
+                                "-88"
+                            ]
+                        },
+                        "41:8A:84:CF:E3:B8": {
+                            "rssi": [
+                                "-98"
+                            ]
+                        },
+                        "79:16:A8:95:F5:68": {
+                            "rssi": [
+                                "-85",
+                                "-85"
+                            ]
+                        },
+                        "42:F9:5E:33:C9:8B": {
+                            "name": "EUG",
+                            "rssi": [
+                                "-85"
+                            ]
+                        },
+                        "66:6A:D7:94:8A:FA": {
+                            "rssi": [
+                                "-71",
+                                "-75",
+                                "-75"
+                            ]
+                        },
+                        "77:22:A1:15:76:6A": {
+                            "rssi": [
+                                "-65",
+                                "-63",
+                                "-58"
+                            ]
+                        },
+                        "10:B2:C0:F8:3A:2C": {
+                            "rssi": [
+                                "-94"
+                            ]
+                        },
+                        "4F:7F:92:2C:ED:47": {
+                            "rssi": [
+                                "-86"
+                            ]
+                        },
+                        "5F:D2:2A:91:8B:96": {
+                            "rssi": [
+                                "-73",
+                                "-80"
+                            ]
+                        },
+                        "79:A8:B6:39:FA:73": {
+                            "rssi": [
+                                "-69"
+                            ]
+                        },
+                        "01:53:38:41:B6:CB": {
+                            "rssi": [
+                                "-78",
+                                "-80",
+                                "-78",
+                                "-80"
+                            ]
+                        },
+                        "7D:39:A8:78:4B:84": {
+                            "rssi": [
+                                "-77",
+                                "-79",
+                                "-72"
+                            ]
+                        },
+                        "6A:6B:C8:CD:8E:FA": {
+                            "rssi": [
+                                "-80",
+                                "-79"
+                            ]
+                        },
+                        "1B:A9:F7:22:65:12": {
+                            "rssi": [
+                                "-82"
+                            ]
+                        },
+                        "47:D7:49:4A:99:8E": {
+                            "rssi": [
+                                "-76",
+                                "-75"
+                            ]
+                        },
+                        "7C:AE:30:9D:2A:1C": {
+                            "rssi": [
+                                "-97"
+                            ]
+                        },
+                        "71:7A:84:5A:DD:F1": {
+                            "rssi": [
+                                "-84",
+                                "-92"
+                            ]
+                        },
+                        "4C:74:31:22:4E:59": {
+                            "rssi": [
+                                "-80"
+                            ]
+                        },
+                        "41:A2:F3:21:56:9B": {
+                            "rssi": [
+                                "-88"
+                            ]
+                        },
+                        "4C:27:E0:42:11:E8": {
+                            "rssi": [
+                                "-89"
+                            ]
+                        }
+                    },
+                    "gps": [
+                        {
+                            "latitude": "44.57090391",
+                            "longitude": "26.08071249"
+                        },
+                        {
+                            "latitude": "44.57089931",
+                            "longitude": "26.08078104"
+                        }
+                    ],
+                    "telephony": []
+                },
+                {
+                    "timestamp": "28-06-2021 19:37:02",
+                    "wifi": {
+                        "c8:67:5e:75:1c:a4": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -79
+                            ]
+                        },
+                        "34:a8:4e:4f:d9:53": {
+                            "ssid": "",
+                            "frequency": "2412",
+                            "rssi": [
+                                -69
+                            ]
+                        },
+                        "c8:67:5e:48:4d:e6": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -81
+                            ]
+                        },
+                        "c8:67:5e:48:4d:e5": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -83
+                            ]
+                        },
+                        "c8:67:5e:48:4d:e4": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -80
+                            ]
+                        },
+                        "34:a8:4e:4f:d9:50": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "2412",
+                            "rssi": [
+                                -68
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0f": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "5280",
+                            "rssi": [
+                                -70
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0e": {
+                            "ssid": "",
+                            "frequency": "5280",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:7f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5200",
+                            "rssi": [
+                                -40
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0d": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5280",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:2f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5220",
+                            "rssi": [
+                                -61
+                            ]
+                        },
+                        "10:b3:d5:b1:ae:82": {
+                            "ssid": "COVID-19 Formular",
+                            "frequency": "2412",
+                            "rssi": [
+                                -87
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0c": {
+                            "ssid": "",
+                            "frequency": "5280",
+                            "rssi": [
+                                -74
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:7e": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -39
+                            ]
+                        },
+                        "10:b3:d5:b1:ae:81": {
+                            "ssid": "",
+                            "frequency": "2412",
+                            "rssi": [
+                                -88
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:7b": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -39
+                            ]
+                        },
+                        "a0:cf:5b:c3:5a:cb": {
+                            "ssid": "",
+                            "frequency": "5220",
+                            "rssi": [
+                                -74
+                            ]
+                        },
+                        "a0:cf:5b:cb:4f:f1": {
+                            "ssid": "",
+                            "frequency": "2412",
+                            "rssi": [
+                                -65
+                            ]
+                        },
+                        "a0:cf:5b:cb:4f:f0": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2412",
+                            "rssi": [
+                                -67
+                            ]
+                        },
+                        "c6:fb:44:f3:67:80": {
+                            "ssid": "POCO X3 NFC",
+                            "frequency": "2452",
+                            "rssi": [
+                                -67
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:00": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2462",
+                            "rssi": [
+                                -64
+                            ]
+                        },
+                        "34:a8:4e:4f:d8:ef": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "5320",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "34:a8:4e:4f:d8:ee": {
+                            "ssid": "",
+                            "frequency": "5320",
+                            "rssi": [
+                                -74
+                            ]
+                        },
+                        "00:be:3b:8b:49:c5": {
+                            "ssid": "Orange-3B8B49C5",
+                            "frequency": "2432",
+                            "rssi": [
+                                -54
+                            ]
+                        },
+                        "34:a8:4e:4f:d8:ed": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5320",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "34:a8:4e:4f:d8:ec": {
+                            "ssid": "",
+                            "frequency": "5320",
+                            "rssi": [
+                                -74
+                            ]
+                        },
+                        "34:a8:4e:4f:d9:5f": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "5180",
+                            "rssi": [
+                                -69
+                            ]
+                        },
+                        "10:b3:d5:b1:ae:8f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5280",
+                            "rssi": [
+                                -83
+                            ]
+                        },
+                        "10:b3:d5:b1:ae:8e": {
+                            "ssid": "",
+                            "frequency": "5280",
+                            "rssi": [
+                                -84
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:75": {
+                            "ssid": "",
+                            "frequency": "2437",
+                            "rssi": [
+                                -61
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:25": {
+                            "ssid": "",
+                            "frequency": "2462",
+                            "rssi": [
+                                -67
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:02": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2462",
+                            "rssi": [
+                                -76
+                            ]
+                        },
+                        "c8:67:5e:47:50:a8": {
+                            "ssid": "Bestvalue",
+                            "frequency": "5240",
+                            "rssi": [
+                                -83
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:73": {
+                            "ssid": "",
+                            "frequency": "2437",
+                            "rssi": [
+                                -58
+                            ]
+                        },
+                        "a0:cf:5b:cb:4f:ff": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5220",
+                            "rssi": [
+                                -61
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:23": {
+                            "ssid": "",
+                            "frequency": "2462",
+                            "rssi": [
+                                -67
+                            ]
+                        },
+                        "a0:cf:5b:c3:f0:8e": {
+                            "ssid": "",
+                            "frequency": "5300",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:70": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2437",
+                            "rssi": [
+                                -56
+                            ]
+                        },
+                        "a0:cf:5b:cb:4f:fc": {
+                            "ssid": "",
+                            "frequency": "5220",
+                            "rssi": [
+                                -60
+                            ]
+                        },
+                        "a0:cf:5b:c3:f0:8d": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5300",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:0f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5180",
+                            "rssi": [
+                                -58
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:0e": {
+                            "ssid": "",
+                            "frequency": "5180",
+                            "rssi": [
+                                -58
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:5e": {
+                            "ssid": "",
+                            "frequency": "5180",
+                            "rssi": [
+                                -82
+                            ]
+                        },
+                        "00:be:3b:8b:47:9a": {
+                            "ssid": "Orange-3B8B479A",
+                            "frequency": "2432",
+                            "rssi": [
+                                -52
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:a8": {
+                            "ssid": "Bestvalue",
+                            "frequency": "5200",
+                            "rssi": [
+                                -65
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:a7": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -65
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:a6": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -66
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:a5": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -66
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:a4": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -65
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:94": {
+                            "ssid": "Bestvalue",
+                            "frequency": "2437",
+                            "rssi": [
+                                -68
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a8": {
+                            "ssid": "Bestvalue",
+                            "frequency": "5240",
+                            "rssi": [
+                                -79
+                            ]
+                        },
+                        "34:a8:4e:4f:d8:e3": {
+                            "ssid": "",
+                            "frequency": "2437",
+                            "rssi": [
+                                -71
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a7": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -80
+                            ]
+                        },
+                        "34:a8:4e:4f:d8:e2": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2437",
+                            "rssi": [
+                                -71
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a6": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -80
+                            ]
+                        },
+                        "0c:80:63:cc:5e:07": {
+                            "ssid": "TP-Link_5E07",
+                            "frequency": "2427",
+                            "rssi": [
+                                -64
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a5": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -79
+                            ]
+                        }
+                    },
+                    "ble": {
+                        "79:A8:B6:39:FA:73": {
+                            "rssi": [
+                                "-70",
+                                "-78"
+                            ]
+                        },
+                        "43:32:CF:23:44:ED": {
+                            "rssi": [
+                                "-77"
+                            ]
+                        },
+                        "5A:78:42:78:F1:2B": {
+                            "rssi": [
+                                "-70",
+                                "-81"
+                            ]
+                        },
+                        "01:53:38:41:B6:CB": {
+                            "rssi": [
+                                "-80"
+                            ]
+                        },
+                        "63:7A:E0:BC:91:11": {
+                            "rssi": [
+                                "-72",
+                                "-67",
+                                "-65"
+                            ]
+                        },
+                        "47:D7:49:4A:99:8E": {
+                            "rssi": [
+                                "-77",
+                                "-75",
+                                "-74"
+                            ]
+                        },
+                        "5F:D2:2A:91:8B:96": {
+                            "rssi": [
+                                "-75",
+                                "-73"
+                            ]
+                        },
+                        "40:CB:2D:CA:E0:19": {
+                            "rssi": [
+                                "-78"
+                            ]
+                        },
+                        "55:19:23:0A:FF:C4": {
+                            "rssi": [
+                                "-82"
+                            ]
+                        },
+                        "41:7A:36:EE:F0:E4": {
+                            "rssi": [
+                                "-66",
+                                "-65"
+                            ]
+                        },
+                        "59:BF:39:7D:E5:62": {
+                            "rssi": [
+                                "-70"
+                            ]
+                        },
+                        "4C:74:31:22:4E:59": {
+                            "rssi": [
+                                "-80"
+                            ]
+                        },
+                        "4E:6C:6E:8F:10:DF": {
+                            "rssi": [
+                                "-80"
+                            ]
+                        },
+                        "42:F9:5E:33:C9:8B": {
+                            "name": "EUG",
+                            "rssi": [
+                                "-82"
+                            ]
+                        },
+                        "6A:6B:C8:CD:8E:FA": {
+                            "rssi": [
+                                "-79",
+                                "-80"
+                            ]
+                        },
+                        "4D:34:52:64:0A:C0": {
+                            "rssi": [
+                                "-74",
+                                "-78"
+                            ]
+                        }
+                    },
+                    "gps": [
+                        {
+                            "latitude": "44.5708489",
+                            "longitude": "26.08071715"
+                        },
+                        {
+                            "latitude": "44.57083862",
+                            "longitude": "26.08071082"
+                        }
+                    ],
+                    "telephony": [
+                        {
+                            "type": "5",
+                            "cid": "28350732",
+                            "rssi": "-65",
+                            "mcc": "226",
+                            "mnc": "5"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": "28-06-2021 19:37:05",
+                    "wifi": {
+                        "c8:67:5e:75:1c:a4": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -79
+                            ]
+                        },
+                        "c8:67:5e:48:4d:e8": {
+                            "ssid": "Bestvalue",
+                            "frequency": "5240",
+                            "rssi": [
+                                -82
+                            ]
+                        },
+                        "c8:67:5e:48:4d:e7": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -81
+                            ]
+                        },
+                        "c8:67:5e:48:4d:e6": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -81
+                            ]
+                        },
+                        "c8:67:5e:48:4d:e5": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -82
+                            ]
+                        },
+                        "c8:67:5e:48:4d:e4": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -82
+                            ]
+                        },
+                        "34:a8:4e:4f:d9:50": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "2412",
+                            "rssi": [
+                                -71
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0f": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "5280",
+                            "rssi": [
+                                -71
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0e": {
+                            "ssid": "",
+                            "frequency": "5280",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:7f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5200",
+                            "rssi": [
+                                -42
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0d": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5280",
+                            "rssi": [
+                                -71
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:2f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5220",
+                            "rssi": [
+                                -61
+                            ]
+                        },
+                        "10:b3:d5:b1:ae:82": {
+                            "ssid": "COVID-19 Formular",
+                            "frequency": "2412",
+                            "rssi": [
+                                -80
+                            ]
+                        },
+                        "50:2f:a8:1f:e3:0c": {
+                            "ssid": "",
+                            "frequency": "5280",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:7b": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -42
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:2b": {
+                            "ssid": "",
+                            "frequency": "5220",
+                            "rssi": [
+                                -62
+                            ]
+                        },
+                        "a0:cf:5b:c3:5a:cf": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5220",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:7a": {
+                            "ssid": "",
+                            "frequency": "5200",
+                            "rssi": [
+                                -43
+                            ]
+                        },
+                        "a0:cf:5b:c3:5a:cb": {
+                            "ssid": "",
+                            "frequency": "5220",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "a0:cf:5b:cb:4f:f1": {
+                            "ssid": "",
+                            "frequency": "2412",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "a0:cf:5b:c3:f0:82": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2462",
+                            "rssi": [
+                                -80
+                            ]
+                        },
+                        "a0:cf:5b:cb:4f:f0": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2412",
+                            "rssi": [
+                                -69
+                            ]
+                        },
+                        "c6:fb:44:f3:67:80": {
+                            "ssid": "POCO X3 NFC",
+                            "frequency": "2452",
+                            "rssi": [
+                                -60
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:00": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2462",
+                            "rssi": [
+                                -64
+                            ]
+                        },
+                        "34:a8:4e:4f:d8:ee": {
+                            "ssid": "",
+                            "frequency": "5320",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "00:be:3b:8b:49:c5": {
+                            "ssid": "Orange-3B8B49C5",
+                            "frequency": "2432",
+                            "rssi": [
+                                -54
+                            ]
+                        },
+                        "34:a8:4e:4f:d8:ec": {
+                            "ssid": "",
+                            "frequency": "5320",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "34:a8:4e:4f:d9:5f": {
+                            "ssid": "CNAB-Business",
+                            "frequency": "5180",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "34:a8:4e:4f:d9:5e": {
+                            "ssid": "",
+                            "frequency": "5180",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "34:a8:4e:4f:d9:5d": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5180",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "d4:72:26:5f:b4:bb": {
+                            "ssid": "vodafoneB4BB",
+                            "frequency": "2437",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "10:b3:d5:b1:ae:8f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5280",
+                            "rssi": [
+                                -83
+                            ]
+                        },
+                        "10:b3:d5:b1:ae:8e": {
+                            "ssid": "",
+                            "frequency": "5280",
+                            "rssi": [
+                                -83
+                            ]
+                        },
+                        "10:b3:d5:b1:ae:8d": {
+                            "ssid": "COVID-19 Formular",
+                            "frequency": "5280",
+                            "rssi": [
+                                -84
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:75": {
+                            "ssid": "",
+                            "frequency": "2437",
+                            "rssi": [
+                                -62
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:25": {
+                            "ssid": "",
+                            "frequency": "2462",
+                            "rssi": [
+                                -71
+                            ]
+                        },
+                        "c8:67:5e:47:50:a8": {
+                            "ssid": "Bestvalue",
+                            "frequency": "5240",
+                            "rssi": [
+                                -84
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:73": {
+                            "ssid": "",
+                            "frequency": "2437",
+                            "rssi": [
+                                -63
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:23": {
+                            "ssid": "",
+                            "frequency": "2462",
+                            "rssi": [
+                                -67
+                            ]
+                        },
+                        "a0:cf:5b:cb:4f:fe": {
+                            "ssid": "",
+                            "frequency": "5220",
+                            "rssi": [
+                                -61
+                            ]
+                        },
+                        "a0:cf:5b:c3:f0:8e": {
+                            "ssid": "",
+                            "frequency": "5300",
+                            "rssi": [
+                                -73
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:70": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2437",
+                            "rssi": [
+                                -63
+                            ]
+                        },
+                        "a0:cf:5b:c3:dc:20": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2462",
+                            "rssi": [
+                                -66
+                            ]
+                        },
+                        "a0:cf:5b:c3:f0:8c": {
+                            "ssid": "",
+                            "frequency": "5300",
+                            "rssi": [
+                                -72
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:0f": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "5180",
+                            "rssi": [
+                                -57
+                            ]
+                        },
+                        "b2:0c:d1:23:d8:4e": {
+                            "ssid": "DIRECT-4e-HP M15 LaserJet",
+                            "frequency": "2437",
+                            "rssi": [
+                                -69
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:0e": {
+                            "ssid": "",
+                            "frequency": "5180",
+                            "rssi": [
+                                -59
+                            ]
+                        },
+                        "a0:cf:5b:cb:7a:5e": {
+                            "ssid": "",
+                            "frequency": "5180",
+                            "rssi": [
+                                -84
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:0c": {
+                            "ssid": "",
+                            "frequency": "5180",
+                            "rssi": [
+                                -57
+                            ]
+                        },
+                        "00:be:3b:8b:47:9a": {
+                            "ssid": "Orange-3B8B479A",
+                            "frequency": "2432",
+                            "rssi": [
+                                -53
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:a8": {
+                            "ssid": "Bestvalue",
+                            "frequency": "5200",
+                            "rssi": [
+                                -60
+                            ]
+                        },
+                        "a0:cf:5b:cb:76:0a": {
+                            "ssid": "",
+                            "frequency": "5180",
+                            "rssi": [
+                                -57
+                            ]
+                        },
+                        "9e:93:4e:46:de:1e": {
+                            "ssid": "DIRECT-NuWorkCentre 3225",
+                            "frequency": "2462",
+                            "rssi": [
+                                -74
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:96": {
+                            "ssid": "",
+                            "frequency": "2437",
+                            "rssi": [
+                                -65
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:95": {
+                            "ssid": "",
+                            "frequency": "2437",
+                            "rssi": [
+                                -65
+                            ]
+                        },
+                        "c8:67:5e:f0:c2:94": {
+                            "ssid": "Bestvalue",
+                            "frequency": "2437",
+                            "rssi": [
+                                -65
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a8": {
+                            "ssid": "Bestvalue",
+                            "frequency": "5240",
+                            "rssi": [
+                                -78
+                            ]
+                        },
+                        "0c:80:63:cc:5e:09": {
+                            "ssid": "TP-Link_5E07_5G",
+                            "frequency": "5180",
+                            "rssi": [
+                                -69
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a7": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -78
+                            ]
+                        },
+                        "34:a8:4e:4f:d8:e2": {
+                            "ssid": "Otopeni Airport",
+                            "frequency": "2437",
+                            "rssi": [
+                                -70
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a6": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -78
+                            ]
+                        },
+                        "0c:80:63:cc:5e:07": {
+                            "ssid": "TP-Link_5E07",
+                            "frequency": "2427",
+                            "rssi": [
+                                -67
+                            ]
+                        },
+                        "c8:67:5e:75:1c:a5": {
+                            "ssid": "",
+                            "frequency": "5240",
+                            "rssi": [
+                                -78
+                            ]
+                        }
+                    },
+                    "ble": {
+                        "46:CA:45:5C:A7:45": {
+                            "rssi": [
+                                "-88"
+                            ]
+                        },
+                        "66:6A:D7:94:8A:FA": {
+                            "rssi": [
+                                "-76"
+                            ]
+                        },
+                        "63:7A:E0:BC:91:11": {
+                            "rssi": [
+                                "-64"
+                            ]
+                        },
+                        "47:D7:49:4A:99:8E": {
+                            "rssi": [
+                                "-78"
+                            ]
+                        },
+                        "5F:D2:2A:91:8B:96": {
+                            "rssi": [
+                                "-78",
+                                "-77"
+                            ]
+                        },
+                        "40:CB:2D:CA:E0:19": {
+                            "rssi": [
+                                "-77",
+                                "-78"
+                            ]
+                        },
+                        "6E:DD:01:2C:E5:77": {
+                            "rssi": [
+                                "-93"
+                            ]
+                        },
+                        "55:19:23:0A:FF:C4": {
+                            "rssi": [
+                                "-77"
+                            ]
+                        },
+                        "6F:0A:94:1B:D3:26": {
+                            "rssi": [
+                                "-65"
+                            ]
+                        },
+                        "59:BF:39:7D:E5:62": {
+                            "rssi": [
+                                "-66"
+                            ]
+                        },
+                        "10:B2:C0:F8:3A:2C": {
+                            "rssi": [
+                                "-81"
+                            ]
+                        },
+                        "4E:6C:6E:8F:10:DF": {
+                            "rssi": [
+                                "-80"
+                            ]
+                        },
+                        "7D:39:A8:78:4B:84": {
+                            "rssi": [
+                                "-72",
+                                "-71",
+                                "-70",
+                                "-71"
+                            ]
+                        },
+                        "6A:6B:C8:CD:8E:FA": {
+                            "rssi": [
+                                "-76"
+                            ]
+                        },
+                        "6F:AF:2A:EE:E0:BB": {
+                            "rssi": [
+                                "-81"
+                            ]
+                        },
+                        "62:9E:57:E1:38:7B": {
+                            "rssi": [
+                                "-65",
+                                "-64",
+                                "-66"
+                            ]
+                        }
+                    },
+                    "gps": [
+                        {
+                            "latitude": "44.57083484",
+                            "longitude": "26.08074342"
+                        },
+                        {
+                            "latitude": "44.57080952",
+                            "longitude": "26.080714"
+                        },
+                        {
+                            "latitude": "44.57081464",
+                            "longitude": "26.08068964"
+                        }
+                    ],
+                    "telephony": []
+                }
+            ]
+        }
+    }
+}
